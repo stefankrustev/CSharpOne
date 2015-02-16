@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\OperatorsAndExpressionsHomework\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\OperatorsAndExpressionsHomework\ModifyBit\obj\Debug\ModifyBit.pdb
