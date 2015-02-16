@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsHomework\DigitWord\bin\Debug\DigitWord.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsHomework\DigitWord\bin\Debug\DigitWord.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsHomework\DigitWord\bin\Debug\DigitWord.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsHomework\DigitWord\obj\Debug\DigitWord.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\ConditionalStatementsHomework\DigitWord\obj\Debug\DigitWord.pdb
