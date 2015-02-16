@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\bin\Debug\QuotesStrings.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\bin\Debug\QuotesStrings.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\bin\Debug\QuotesStrings.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.pdb

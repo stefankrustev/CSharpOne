@@ -1,0 +1,4 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\bin\Debug\QuotesStrings.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\07 QuotesStrings.csprojResolveAssemblyReference.cache
